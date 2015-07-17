@@ -33,6 +33,7 @@
      shell-scripts
      syntax-checking
      spotify
+     themes-megapack
      version-control
      osx
      )
@@ -161,6 +162,7 @@ before layers configuration."
    dotspacemacs-default-package-repository nil
    )
   ;; User initialization goes here
+  require-final-newline t
   )
 
 (defun dotspacemacs/config ()
