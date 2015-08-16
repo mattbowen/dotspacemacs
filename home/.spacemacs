@@ -23,6 +23,7 @@
      emacs-lisp
      evil-commentary
      git
+     go
      javascript
      markdown
      org
