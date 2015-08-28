@@ -20,6 +20,7 @@
      auto-completion
      ansible
      better-defaults
+     clojure
      emacs-lisp
      erc
      evil-commentary
