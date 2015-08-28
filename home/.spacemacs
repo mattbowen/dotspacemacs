@@ -25,6 +25,7 @@
      evil-commentary
      git
      go
+     html
      javascript
      markdown
      org
